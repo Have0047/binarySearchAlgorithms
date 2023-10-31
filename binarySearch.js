@@ -1,5 +1,5 @@
-let array = [...Array(100000000).keys()];
-let target = 9187291;
+let array = [...Array(100000000).keys()];//change it to what number you want
+let target = 9187291;//change it to what number you want
 
 let index =  binarySearch(array,target)//the number
 
