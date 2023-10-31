@@ -5,7 +5,7 @@
 int binarySearch(int* array,int size,int target);
 
 int main() {
-    int n = 100000000;
+    int n = 100000000;//change it to what number you want
     int* array = malloc(n * sizeof(int));
     //int target = 80;
     int target;
